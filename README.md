@@ -19,4 +19,4 @@ Getting started with containers and Docker CE
 
 
 
-Website Page for this repo [link](https://oss-dallas.github.io/meetup20171007/)
+Website Page for this repo [link](https://Dallas-OSS.github.io/meetup20171007/)
