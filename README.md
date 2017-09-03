@@ -1,2 +1,11 @@
 # meetup20171007
 October 7th 2017 meetup
+
+Getting started with containers and Docker CE
+
+## PreReqs
+- Install Docker CE
+  - [YouTube video](https://youtu.be/7eeafuWpoEw)
+- Pull a few docker images
+  - docker pull portainer/portainer
+  - docker pull linuxserver/smokeping
