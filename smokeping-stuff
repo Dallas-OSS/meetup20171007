@@ -1,0 +1,14 @@
+1. start smoke ping with name smokey
+2. start tutum container mapping smokey
+        docker run -d -p 80:80 --link smokey tutum/haproxy
+3. docker exec -it 6dc329a /bin/bash
+4. add <a href=http://elvis.bobbymac.rocks/smokeping/smokeping.cgi>Smokeping</a>
+5./usr/sbin/apache restart
+6. docker commit 6dc329aabc00 linuxserver/smokeping:versionHOME
+
+Dockerfile is better with docker hub
+
+
+
+
+
