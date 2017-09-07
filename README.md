@@ -16,7 +16,8 @@ Getting started with containers and Docker CE
 ```docker pull linuxserver/smokeping```
 
 
-
+Good docker hub repo with lots of smoke ping stuff
+[smokeping-docker](https://hub.docker.com/r/dperson/smokeping/)
 
 
 Website Page for this repo [link](https://Dallas-OSS.github.io/meetup20171007/)
