@@ -6,9 +6,5 @@
 5./usr/sbin/apache restart
 6. docker commit 6dc329aabc00 linuxserver/smokeping:versionHOME
 
-Dockerfile is better with docker hub
-
-
-
-
-
+7. Dockerfile replacing the index.html file at build
+8. Dockerfile replacing httpd.conf file making smokeping/smokeping.cgi the default landing page instead of index.html 
