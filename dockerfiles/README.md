@@ -7,4 +7,4 @@ Once you have built a docker container,  you want to save it in a registry like 
 ``` docker build -t bobbymac/smokeping .```
 ``` docker tag <name> bobbymac/smokeping:lastest ```
 
-``` docker push bobbymac/smokeping:lastest ```
+``` docker push bobbymac/smokeping:latest ```
