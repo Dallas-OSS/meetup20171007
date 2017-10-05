@@ -7,7 +7,8 @@ Getting started with containers and Docker CE
 #### Install Docker CE
   - [YouTube video](https://youtu.be/7eeafuWpoEw)
   - [Docker Docs](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
-
+  - [Docker?!? But I'm a SYSADMIN!](https://www.youtube.com/watch?time_continue=590&v=M7ZBF-JJWVU)
+    - This tube is AWESOME for a container 101 for those that have been using VM's for years
 
 #### Pull a few docker images
 
